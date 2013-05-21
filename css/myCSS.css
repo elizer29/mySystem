@@ -1,0 +1,167 @@
+body{
+}	
+#hospital_definition{
+	margin-top: 100px;
+}
+/*-------------------login page--------------------*/
+#forErrMsg{
+	color: maroon;
+}
+label{
+	text-align: right;
+	display: inline-block;
+	float: left;
+	width: 200px;
+}
+/*-----------------admin page--------------------*/
+#logOut{
+	float: right;
+	text-decoration: none;
+	margin-right: 25px;
+	margin-top: 20px;
+}
+#main_fldst{
+	background-color: green;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#tabs{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#record_table{
+	margin-left: 15px;
+	border-collapse: collapse;
+	font-family: arial , sans-serif;
+	width: 1050px;
+	
+}
+.ui-dialog-titlebar{
+	background: #5C5C33;
+	color: white;
+}
+td{
+	height: 10px;
+	border: thin solid gray;
+	text-align: center;
+}
+#hsptl_img{
+	height: 350px;
+	width: 400px;
+	margin-left: 50px;
+	margin-top: 40px;
+	float: left;
+	margin-right: 20px;
+}
+#add_button{
+	border-radius: 2px;
+	margin-top: 20px;
+	margin-left: 15px;
+	width: 200px;
+	border-top: 1px;
+	border-left: 1px;
+	border-right: 1px;
+	border-bottom: 1px;
+	background: -moz-linear-gradient(top, #33AD33,#0E8032 );
+	background: -webkit-linear-gradient(top, #33AD33,#0E8032 );
+	padding: 5px;
+	font-size: 15px;
+	color: white;
+}
+.ui-tabs-anchor{
+	/*background: orange;*/
+}
+#search{
+	margin-right: 50px;
+	margin-top: 18px;
+}
+#error_symbol{
+	float: left;
+	margin-right: 10px;
+}
+.thumbs{
+	float: left;
+	margin-right: 10px;
+}
+.warning{
+	float: left;
+	margin-right: 10px;
+}
+.ui-widget-overlay{
+	background: black;
+}
+#face{
+	float: left;
+	height: 40px;
+	width: 40px;
+}
+/*.highlight:hover{
+	background: -moz-linear-gradient(top,#1072C7, #405D87 );
+	background: -webkit-linear-gradient(top, #1072C7, #405D87);
+	background: linear-gradient(top, #1072C7, #99D6EB);
+	color: yellow;
+}*/
+th.forTheList{
+	border: thin solid gray;
+	background: -moz-linear-gradient(top, white, #B7B6BA);
+	background: -webkit-linear-gradient(top, white, #B7B6BA);
+}
+th.forTheDoc{
+	border: thin solid gray;
+	background: -moz-linear-gradient(top, orange, yellow);
+	background: -webkit-linear-gradient(top, orange, yellow);
+}
+td.forTheDoc{
+	padding: 7px;
+}
+#doctors_table{
+	border-collapse: collapse;
+	margin-top: 90px;
+	margin-left: 380px;
+	margin-bottom: 100px;
+}
+#logo_img{
+	margin-left: 90px;
+	float: left;
+	margin-top: 0;
+	margin-right: 10px;
+}
+#logo_img2{
+	margin-left: 20px;
+	float: left;
+	margin-top: 0;
+	margin-right: 10px;
+}
+#logo2{
+	margin-left: 20px;
+	margin-top: 0;
+}
+.delete, .edit{
+	cursor: pointer;
+}
+#result{
+	font-size: 20px;
+	color: maroon;
+}
+#btn-search, #search{
+	float: right;
+}
+
+/*--------------------------------------------------------------------------------------------------------------*/
+#tbl{
+	margin-left: 15px;
+}
+#btn_Login{
+	float: right;
+	margin-right: 30px;
+}
+.img{
+	height: 300px;
+	width: 400px;
+}
+#myCarousel{
+	width: 400px;
+	float: left;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
